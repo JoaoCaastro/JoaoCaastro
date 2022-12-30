@@ -1,7 +1,7 @@
 ### Hello World, 👋
 
 - 🔭 I’m currently working on XTurbo Internet Service Provider
-- 🌱 I’m currently learning Machine Learning AI
+- 🌱 I’m currently learning Python
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoCaastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
