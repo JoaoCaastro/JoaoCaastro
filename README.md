@@ -1,7 +1,7 @@
 ### Hello World, 👋
 
 - 🔭 I’m currently working on XTurbo Internet Service Provider
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter, Dart & JavaScript
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoCaastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,19 +9,21 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="Joao-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Joao-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+    <img align="center" alt="Joao-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Joao-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg">
+  <img align="center" alt="Joao-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg">
+  <img align="center" alt="Joao-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg">
   <!-- <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> -->
   <!-- <img align="right" alt="Joao-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
   
 ##
   
-<div>
-  <a href = "mailto:cjoao.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<!-- <div>
+  <a href="https://www.linkedin.com/in/joao-victor-castro-vieira/"><img align="center" alt="Joao-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg"></a>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/JoaoCaastro/JoaoCaastro/blob/output/github-contribution-grid-snake.svg) -->
